@@ -1,5 +1,5 @@
 
-# Heey! I'm [Sabrine El Moutaoukil] 👋
+# Heey! I'm [Sabrine El Moutaoukil] ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
 
 🎓 **High school student at Reaumur Laval, France**  
 💻 **Self-taught developer passionate about web technologies**  
