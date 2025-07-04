@@ -5,7 +5,7 @@
 💻 **Self-taught developer passionate about web technologies**  
 🚀 **Building cool things on the web and always eager to learn more**  
 
-> *"Do one thing that scares you every day."* - My daily motto
+> *"Do one thing that scares you every day."* 
 
 ---
 
@@ -44,4 +44,4 @@
 
 
 > *"Let's build, share, and have fun together!"*  
-> Feel free to reach out for collaborations or just to say hi! 👋
+> Feel free to say hi! ^^
