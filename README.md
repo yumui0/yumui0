@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩🏻‍💻 About Me
 
 - 🎮 Hobbies: **Gaming, coding projects, and connecting with people online**
 - 🔥 Passionate about: **Creating beautiful, responsive websites**
