@@ -1,5 +1,5 @@
 
-# Heey! I'm [Sabrine El Moutaoukil] ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾
+# Heey! I'm [Sabrine El Moutaoukil]
 
 🎓 **High school student at Reaumur Laval, France**  
 💻 **Self-taught developer passionate about web technologies**  
@@ -12,7 +12,7 @@
 ## 👩🏻‍💻 About Me
 
 - 🎮 Hobbies: **Gaming, coding projects, and connecting with people online**
-- 🔥 Passionate about: **Creating beautiful, responsive websites**
+- 🔥 Passionate about: **Creating beautiful responsive websites**
 - 📫 How to reach me: **[elmoutaoukilsabrine@gmail.com]**
 
 ---
