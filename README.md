@@ -2,10 +2,8 @@
 # Heey! I'm Sabrine aka yumi
 
 🎓 **High school student at Reaumur Laval, France**  
-💻 **Self-taught developer passionate about web technologies**  
-🚀 **Building cool things on the web and always eager to learn more**  
+💻 **Self-taught developer passionate about web technologies** 
 
-> *"Do one thing that scares you every day."* 
 
 ---
 
