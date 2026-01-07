@@ -39,5 +39,5 @@
 ---
 
 
-> *"Let's build, share, and have fun together!"*  
+> *"the self is not something one finds, it is one creates"*  
 > Feel free to say hi! ^^
