@@ -1,7 +1,5 @@
 
-# Heey! I'm Sabrine aka yumi
-
-🎓 **High school student at Reaumur Laval, France**  
+# Heey! I'm Sabrine aka yumi 
 💻 **Self-taught developer passionate about web technologies** 
 
 
