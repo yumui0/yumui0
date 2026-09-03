@@ -2,17 +2,6 @@
 # Heey! I'm Sabrine aka yumi 
 💻 **Self-taught developer passionate about web technologies** 
 
-
----
-
-## 👩🏻‍💻 About Me
-
-- 🎮 Hobbies: **Gaming, coding projects, and connecting with people online**
-- 🔥 Passionate about: **Creating beautiful responsive websites**
-- 📫 How to reach me: **[elmoutaoukilsabrine@gmail.com]**
-
----
-
 ## 🛠️ Tech Stack
 
 **My favorite tools and technologies:**
