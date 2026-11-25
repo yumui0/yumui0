@@ -11,4 +11,3 @@
 
 
 > *"The self is not something one finds, it is something one creates"*  
-> Feel free to say hi! ^^
