@@ -6,9 +6,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=devdotto&logoColor=white)](https://devyumi.netlify.app)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsmesabrinee)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misssabrine_/)
+[![Beacons](https://img.shields.io/badge/🔗_Beacons-FF6B35?style=for-the-badge)](https://beacons.ai/yumui)
 
 ---
 
 
 > *"The self is not something one finds, it is something one creates"*  
-> Feel free to say hi! ^^
